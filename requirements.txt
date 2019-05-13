@@ -1,0 +1,8 @@
+mido
+pigpio
+pygame
+psutil
+pygame-menu
+rtmidi
+sequencer
+https://github.com/BuildingRobotics/python-mingus/archive/python3.zip

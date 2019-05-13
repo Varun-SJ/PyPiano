@@ -1,0 +1,13 @@
+#config floder from pycharm
+venv/
+
+.git/
+
+.idea/
+
+__pycache__/
+
+MessingAround/
+
+*.pyc
+
