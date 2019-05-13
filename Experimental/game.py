@@ -27,7 +27,7 @@ def input(events):
 
 
 display_width = 1280
-display_height = 1024
+display_height = 1024  # Display Height
 
 pygame.init()
 pygame.display.set_caption("GUI")
